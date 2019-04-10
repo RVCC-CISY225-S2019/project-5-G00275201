@@ -17,3 +17,52 @@ picture {
     margin-left: 10em;
     margin-right: 10em;
 }
+
+/* form styles */
+legend {
+	font-size: 1.3rem;
+	font-family: inherit;
+}
+
+textarea {
+	border: 1.2px solid;
+	box-sizing: border-box;
+	width: 90%;
+}
+
+textarea:focus {
+	background-color: #EAEAEA;
+}
+
+input {
+	border: 1.2px solid;
+	box-sizing: border-box;
+	height: 1.5rem;
+	width: 90%;
+}
+
+input[type="radio"] {
+	border: 1.2px solid;
+	box-sizing: border-box;
+	height: 1.5rem;
+	width: .5rem;
+}
+
+
+input:focus {
+	background-color: #EAEAEA;
+}
+
+button {
+	background-color: #8FB390;
+	color: #FFFFFF;
+	border: 1.2px solid black;
+	box-shadow: 0 1px 0 #EAEAEA;
+	font-size: 1.3rem;
+	font-family: 'Playfair Display SC', serif;
+}
+
+button:focus {
+	background-color: #EAEAEA;
+	color: #5A7F64;
+}
