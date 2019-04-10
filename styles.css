@@ -1,0 +1,19 @@
+body {
+	font-family: 'ZCOOL XiaoWei', serif;
+}
+
+picture {
+	max-width: 100%;
+}
+
+.articleHeader{
+    font-weight: 500;
+    text-align: center;
+}
+
+.form-container{
+    margin-top: 3em;
+    margin-bottom: 3em;
+    margin-left: 10em;
+    margin-right: 10em;
+}
